@@ -3948,6 +3948,15 @@ footer a {
     margin: 0;
     padding: 0;
   }
+  .s-works{
+    width: 106%;
+  }
+  .s-contact{
+    width: 106%;
+  }
+  footer{
+    width: 106%;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */
