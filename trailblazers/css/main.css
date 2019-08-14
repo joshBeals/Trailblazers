@@ -3921,7 +3921,7 @@ footer a {
 
 }
 
-@media only screen and (max-width:400px) {
+@media only screen and (max-width:420px) {
   .cl-copyright span {
     font-size: 15px;
   }
@@ -3934,6 +3934,20 @@ footer a {
     padding: 0 2rem;
   }
 
+  html {
+    width: 110%;
+    margin: 0;
+    padding: 0;
+  }
+
+}
+
+@media only screen and (max-width:320px){
+  html {
+    width: 110%;
+    margin: 0;
+    padding: 0;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */
