@@ -3940,26 +3940,19 @@ footer a {
     padding: 0;
   }
 
-}
-
-@media only screen and (max-width:320px){
-  html {
-    width: 110%;
-    margin: 0;
-    padding: 0;
-  }
   .s-works{
-    width: 106%;
+    width: 120%;
   }
   .s-contact{
-    width: 106%;
+    width: 120%;
   }
   .s-services{
-    width: 106%;
+    width: 120%;
   }
   footer{
-    width: 106%;
+    width: 120%;
   }
+
 }
 
 /*# sourceMappingURL=main.css.map */
